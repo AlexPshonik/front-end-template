@@ -9,6 +9,23 @@ var config = {
   env: 'development',
   production: production,
 
+  src: {
+    root: srcPath,
+    pug: srcPath + '/pug',
+    sass: srcPath + '/sass',
+    js: srcPath + '/js',
+    img: srcPath + '/img',
+    fonts: srcPath + '/fonts'
+    },
+  dest: {
+    root: destPath,
+    html: destPath,
+    css: destPath + '/sass',
+    js: destPath + '/js',
+    img: destPath + '/img',
+    fonts: destPath + '/fonts'
+  },
+
   setEnv: function (env) {
     if (typeof env !== 'string') return;
     this.env = env;
