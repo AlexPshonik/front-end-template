@@ -20,7 +20,7 @@ var config = {
   dest: {
     root: destPath,
     html: destPath,
-    css: destPath + '/sass',
+    css: destPath + '/css',
     js: destPath + '/js',
     img: destPath + '/img',
     fonts: destPath + '/fonts'
