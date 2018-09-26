@@ -1,6 +1,6 @@
 var util = require('gulp-util');
 
-var srcPath = 'app';
+var srcPath = 'src';
 var destPath = 'build';
 
 var production = util.env.production || util.env.prod || false;
