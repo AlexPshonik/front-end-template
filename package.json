@@ -4,7 +4,10 @@
   "description": "front-end-template",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  },
   "scripts": {
     "dev": "gulp"
   },
