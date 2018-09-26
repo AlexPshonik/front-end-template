@@ -1,0 +1,21 @@
+{
+  "name": "front-end-template",
+  "version": "1.0.0",
+  "description": "front-end-template",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexPshonik/front-end-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexPshonik/front-end-template/issues"
+  },
+  "homepage": "https://github.com/AlexPshonik/front-end-template#readme"
+}
