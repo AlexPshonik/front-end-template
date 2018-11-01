@@ -26,3 +26,8 @@ nbproject
 .gulp
 
 node_modules
+
+# Temp folder
+tmp
+temp
+Temp
